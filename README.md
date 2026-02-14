@@ -7,3 +7,5 @@ Homework_VS_Code
 a = 7
 b = 8 
 print(a*b)
+
+Изменения сделаны в новой ветке.
